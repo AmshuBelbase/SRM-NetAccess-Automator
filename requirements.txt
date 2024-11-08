@@ -1,0 +1,8 @@
+sudo apt install iptables
+sudo apt-get install dnsmasq
+
+python -m venv atc
+source atc/bin/activate
+pip install firebase-admin
+sudo apt-get install chromium-chromedriver
+pip install selenium

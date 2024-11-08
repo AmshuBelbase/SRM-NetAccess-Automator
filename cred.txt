@@ -1,0 +1,4 @@
+userid of srm mail
+password
+python environment name
+device name
